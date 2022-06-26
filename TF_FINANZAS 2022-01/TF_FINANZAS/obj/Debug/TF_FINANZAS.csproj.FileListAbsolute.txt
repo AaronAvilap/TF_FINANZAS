@@ -1,0 +1,356 @@
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\TF_FINANZAS.dll.config
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\TF_FINANZAS.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\TF_FINANZAS.pdb
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\csc.exe
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\csc.exe.config
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\csc.rsp
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\csi.exe
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\csi.exe.config
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\csi.rsp
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\System.AppContext.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\System.Console.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\System.IO.Compression.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\System.Net.Http.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\System.ValueTuple.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\vbc.exe
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\vbc.exe.config
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\vbc.rsp
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\VBCSCompiler.exe
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\obj\Debug\TF_FINANZAS.csproj.AssemblyReference.cache
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\obj\Debug\TF_FINANZAS.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\obj\Debug\TF_FINANZAS.csproj.CopyComplete
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\obj\Debug\TF_FINANZAS.dll
+C:\Users\jerem\source\repos\TF_FINANZAS\TF_FINANZAS\obj\Debug\TF_FINANZAS.pdb
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\TF_FINANZAS.dll.config
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\TF_FINANZAS.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\TF_FINANZAS.pdb
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\csc.exe
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\csc.exe.config
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\csc.rsp
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\csi.exe
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\csi.exe.config
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\csi.rsp
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\Microsoft.Managed.Core.targets
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\System.AppContext.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\System.Collections.Immutable.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\System.Console.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\System.Globalization.Calendars.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\System.IO.Compression.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\System.IO.FileSystem.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\System.Net.Http.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\System.Net.Sockets.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\System.Reflection.Metadata.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\System.ValueTuple.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\System.Xml.XmlDocument.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\System.Xml.XPath.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\vbc.exe
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\vbc.exe.config
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\vbc.rsp
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\VBCSCompiler.exe
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\roslyn\VBCSCompiler.exe.config
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\obj\Debug\TF_FINANZAS.csproj.AssemblyReference.cache
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\obj\Debug\TF_FINANZAS.csproj.CoreCompileInputs.cache
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\obj\Debug\TF_FINANZAS.csproj.CopyComplete
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\obj\Debug\TF_FINANZAS.dll
+D:\U\ciclo 5\Finanzas e Ingeniería Económica\web casi terminado\TF_FINANZAS\obj\Debug\TF_FINANZAS.pdb
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\TF_FINANZAS.dll.config
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\TF_FINANZAS.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\TF_FINANZAS.pdb
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\csc.exe
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\csc.exe.config
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\csc.rsp
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\csi.exe
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\csi.exe.config
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\csi.rsp
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\Microsoft.Managed.Core.targets
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\System.AppContext.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\System.Collections.Immutable.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\System.Console.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\System.Globalization.Calendars.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\System.IO.Compression.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\System.IO.FileSystem.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\System.Net.Http.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\System.Net.Sockets.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\System.Reflection.Metadata.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\System.ValueTuple.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\System.Xml.XmlDocument.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\System.Xml.XPath.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\vbc.exe
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\vbc.exe.config
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\vbc.rsp
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\VBCSCompiler.exe
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\roslyn\VBCSCompiler.exe.config
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\obj\Debug\TF_FINANZAS.csproj.AssemblyReference.cache
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\obj\Debug\TF_FINANZAS.csproj.CoreCompileInputs.cache
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\obj\Debug\TF_FINANZAS.csproj.CopyComplete
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\obj\Debug\TF_FINANZAS.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF_Finanzas+Name\TF_FINANZAS\obj\Debug\TF_FINANZAS.pdb
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\TF_FINANZAS.dll.config
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\TF_FINANZAS.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\TF_FINANZAS.pdb
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\csc.exe
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\csc.exe.config
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\csc.rsp
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\csi.exe
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\csi.exe.config
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\csi.rsp
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.Managed.Core.targets
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.AppContext.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Collections.Immutable.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Console.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Globalization.Calendars.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.IO.Compression.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.IO.FileSystem.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Net.Http.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Net.Sockets.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Reflection.Metadata.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.ValueTuple.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Xml.XmlDocument.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Xml.XPath.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\vbc.exe
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\vbc.exe.config
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\vbc.rsp
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\VBCSCompiler.exe
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\roslyn\VBCSCompiler.exe.config
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\obj\Debug\TF_FINANZAS.csproj.AssemblyReference.cache
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\obj\Debug\TF_FINANZAS.csproj.CoreCompileInputs.cache
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\obj\Debug\TF_FINANZAS.csproj.CopyComplete
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\obj\Debug\TF_FINANZAS.dll
+D:\UPC\5to ciclo\TF_Finanzas19062022\TF_Finanzas\TF_FINANZAS\obj\Debug\TF_FINANZAS.pdb
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\TF_FINANZAS.dll.config
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\TF_FINANZAS.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\TF_FINANZAS.pdb
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\csc.exe
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\csc.exe.config
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\csc.rsp
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\csi.exe
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\csi.exe.config
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\csi.rsp
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.Managed.Core.targets
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.AppContext.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Collections.Immutable.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Console.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Globalization.Calendars.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.IO.Compression.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.IO.FileSystem.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Net.Http.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Net.Sockets.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Reflection.Metadata.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.ValueTuple.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Xml.XmlDocument.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Xml.XPath.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\vbc.exe
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\vbc.exe.config
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\vbc.rsp
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\VBCSCompiler.exe
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\roslyn\VBCSCompiler.exe.config
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\obj\Debug\TF_FINANZAS.csproj.AssemblyReference.cache
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\obj\Debug\TF_FINANZAS.csproj.CoreCompileInputs.cache
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\obj\Debug\TF_FINANZAS.csproj.CopyComplete
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\obj\Debug\TF_FINANZAS.dll
+D:\U\xdfinanzas\TF_Finanzas\TF_FINANZAS\obj\Debug\TF_FINANZAS.pdb
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\TF_FINANZAS.dll.config
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\TF_FINANZAS.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\TF_FINANZAS.pdb
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\csc.exe
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\csc.exe.config
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\csc.rsp
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\csi.exe
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\csi.exe.config
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\csi.rsp
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.Managed.Core.targets
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.AppContext.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Collections.Immutable.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Console.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Globalization.Calendars.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.IO.Compression.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.IO.FileSystem.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Net.Http.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Net.Sockets.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Reflection.Metadata.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.ValueTuple.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Xml.XmlDocument.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Xml.XPath.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\vbc.exe
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\vbc.exe.config
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\vbc.rsp
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\VBCSCompiler.exe
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\roslyn\VBCSCompiler.exe.config
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\obj\Debug\TF_FINANZAS.csproj.AssemblyReference.cache
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\obj\Debug\TF_FINANZAS.csproj.CoreCompileInputs.cache
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\obj\Debug\TF_FINANZAS.csproj.CopyComplete
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\obj\Debug\TF_FINANZAS.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\obj\Debug\TF_FINANZAS.pdb
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\Bogus.dll
+D:\UPC\5to ciclo\Finanzas e Ingenieria Economica\TF-FINANZAS\TF_Finanzas\TF_FINANZAS\bin\Bogus.xml
